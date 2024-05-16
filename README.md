@@ -10,6 +10,9 @@ This project focuses on developing a facial gender classification model using Co
 - Data Preprocessing: Techniques such as image resizing, normalization, histogram equalization, sharpening, and augmentation to improve model performance.
 - Training and Evaluation: Comprehensive training on labeled facial image datasets and evaluation using metrics like training accuracy, validation accuracy, precision, recall, and F1-score.
 - Transfer Learning: Utilizing pre-trained weights from InceptionV3 to boost model performance and reduce training time.
+## Dataset:
+1- https://www.kaggle.com/datasets/jessicali9530/celeba-dataset (this is the dataset that we used for the InceptionV3 model)
+2- https://susanqq.github.io/UTKFace/ (this is the dataset that we used for the CNN model)
 ### Student Names:
   - Madawi Alhadyan 
   - Najla Almajed 
