@@ -8,7 +8,7 @@ This project focuses on developing a facial gender classification model using Co
 - CNN Implementation: A custom CNN model designed to classify gender from facial images.
 - InceptionV3 Architecture: Implementation of the advanced InceptionV3 model, known for its efficiency and accuracy in image classification tasks.
 - Data Preprocessing: Techniques such as image resizing, normalization, histogram equalization, sharpening, and augmentation to improve model performance.
-- Training and Evaluation: Comprehensive training on labeled facial image datasets and evaluation using metrics like accuracy, precision, recall, and F1-score.
+- Training and Evaluation: Comprehensive training on labeled facial image datasets and evaluation using metrics like training accuracy, validation accuracy, precision, recall, and F1-score.
 - Transfer Learning: Utilizing pre-trained weights from InceptionV3 to boost model performance and reduce training time.
 ### Student Names:
   - Madawi Alhadyan 
