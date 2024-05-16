@@ -1,7 +1,7 @@
 # Image-Processing-facial-gender-classification
 ## Overview
 This project focuses on developing a facial gender classification system using Convolutional Neural Networks (CNNs) and the InceptionV3 architecture. The goal is to accurately classify the gender of individuals from facial images by leveraging deep learning techniques.
-##Objectives
+## Objectives
 - To build a robust facial gender classification model.
 - To enhance the model's accuracy using various data preprocessing and augmentation techniques.
 ## Key features:
