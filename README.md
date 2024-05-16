@@ -11,4 +11,4 @@ This project focuses on developing a facial gender classification system using C
 - Training and Evaluation: Comprehensive training on labeled facial image datasets and evaluation using metrics like accuracy, precision, recall, and F1-score.
 - Transfer Learning: Utilizing pre-trained weights from InceptionV3 to boost model performance and reduce training time.
 
-  Madawi Alhadyan, Najla Almajed, Maryam Aljafaari, Nouf Aldakheel, Nourah Aldhwihi, Lama Alshehri, Reema Alqahtani
+  Madawi Alhadyan, Najla Almajed, Maryam Aljafaari, Nouf Aldakheel, Lama Alshehri, Reema Alqahtani
